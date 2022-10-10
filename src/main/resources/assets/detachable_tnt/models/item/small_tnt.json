@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 20],
+	"textures": {
+		"0": "detachable_tnt:item/small_tnt",
+		"particle": "detachable_tnt:item/small_tnt"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [4, 3.2, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 3.2, 4, 16], "texture": "#0"},
+				"south": {"uv": [12, 3.2, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 3.2, 12, 16], "texture": "#0"},
+				"up": {"uv": [8, 3.2, 4, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 3.2], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
