@@ -1,5 +1,8 @@
 {
   "item.detachable_tnt.small_tnt": "Small TNT",
-  "item.detachable_tnt.detachable_tnt": "Detachable TNT",
+  "block.detachable_tnt.northern_detachable_tnt": "Detachable TNT (%sx)",
+  "block.detachable_tnt.southern_detachable_tnt": "Detachable TNT (%sx)",
+  "block.detachable_tnt.eastern_detachable_tnt": "Detachable TNT (%sx)",
+  "block.detachable_tnt.western_detachable_tnt": "Detachable TNT (%sx)",
   "block.detachable_tnt.detachable_tnt": "Detachable TNT"
 }

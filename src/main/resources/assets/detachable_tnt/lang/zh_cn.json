@@ -1,5 +1,8 @@
 {
   "item.detachable_tnt.small_tnt": "小型TNT",
-  "item.detachable_tnt.detachable_tnt": "拆解型TNT",
+  "block.detachable_tnt.northern_detachable_tnt": "拆解型TNT (%sx)",
+  "block.detachable_tnt.southern_detachable_tnt": "拆解型TNT (%sx)",
+  "block.detachable_tnt.eastern_detachable_tnt": "拆解型TNT (%sx)",
+  "block.detachable_tnt.western_detachable_tnt": "拆解型TNT (%sx)",
   "block.detachable_tnt.detachable_tnt": "拆解型TNT"
 }
