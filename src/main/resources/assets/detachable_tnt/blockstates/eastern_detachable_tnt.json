@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "level=1": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_01"
+    },
+    "level=2": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_02"
+    },
+    "level=3": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_03"
+    },
+    "level=4": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_04"
+    },
+    "level=5": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_05"
+    },
+    "level=6": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_06"
+    },
+    "level=7": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_07"
+    },
+    "level=8": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_08"
+    },
+    "level=9": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_09"
+    },
+    "level=10": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_10"
+    },
+    "level=11": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_11"
+    },
+    "level=12": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_12"
+    },
+    "level=13": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_13"
+    },
+    "level=14": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_14"
+    },
+    "level=15": {
+      "model": "detachable_tnt:block/eastern_detachable_tnt_15"
+    }
+  }
+}
