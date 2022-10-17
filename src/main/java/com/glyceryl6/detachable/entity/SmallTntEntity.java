@@ -17,7 +17,6 @@ import net.minecraft.world.phys.Vec3;
 
 import javax.annotation.ParametersAreNonnullByDefault;
 
-@SuppressWarnings("unused")
 @ParametersAreNonnullByDefault
 @MethodsReturnNonnullByDefault
 public class SmallTntEntity extends AbstractArrow {
@@ -26,6 +25,7 @@ public class SmallTntEntity extends AbstractArrow {
         super(type, level);
     }
 
+    @SuppressWarnings("unused")
     public SmallTntEntity(double x, double y, double z, Level level) {
         super(RegistryEntity.SMALL_TNT.get(), x, y, z, level);
     }
@@ -57,6 +57,10 @@ public class SmallTntEntity extends AbstractArrow {
 
     public boolean isInGround() {
         return this.inGround;
+    }
+
+    public int getInGroundTime() {
+        return this.inGroundTime;
     }
 
     protected void onHitBlock(BlockHitResult result) {
